@@ -1,1 +1,1 @@
-# Exercism-Rust-Solution-
+# Exercism-Rust-Solution
